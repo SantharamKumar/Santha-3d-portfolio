@@ -39,7 +39,7 @@ const FeedbackCard: React.FC<{ index: number } & TTestimonial> = ({
       <div className="absolute inset-0 rounded-3xl bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 opacity-20 animate-pulse group-hover:opacity-40 group-hover:animate-spin transition-all duration-300"></div>
       <div className="absolute inset-[2px] rounded-3xl bg-black-200 group-hover:bg-black-300 transition-all duration-300"></div>
       <div className="relative z-10 group-hover:scale-105 transition-transform duration-300">
-      <p className="text-[48px] font-black text-white">📝</p>
+      <p className="text-[48px] font-black text-white"></p>
 
       <div className="mt-1">
         <p className="text-[18px] tracking-wider text-white">{testimonial}</p>
@@ -47,7 +47,7 @@ const FeedbackCard: React.FC<{ index: number } & TTestimonial> = ({
         <div className="mt-7">
           <div className="flex flex-col">
             <p className="text-[16px] font-medium text-white">
-              <span className="blue-text-gradient">📖</span> {name}
+              <span className="blue-text-gradient"></span> {name}
             </p>
             <p className="text-secondary mt-1 text-[12px]">
               {designation} • {company}
