@@ -13,9 +13,9 @@ const INITIAL_STATE = Object.fromEntries(
 );
 
 const emailjsConfig = {
-  serviceId: "service_y13vqir",
-  templateId: "template_zwhzrln",
-  userId: "mJqMHxtE5Tl49rUUb",
+  serviceId: "service_v12ylxs",
+  templateId: "template_uvt9pl6",
+  userId: "S-8tEDx7LkhAJZv2F",
 };
 
 const Contact = () => {
