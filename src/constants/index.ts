@@ -189,7 +189,7 @@ const testimonials: TTestimonial[] = [
     name: "Pega Certified Senior System Architect",
     designation: "Developer",
     company: "Pega Systems",
-    image: "https://academyartifacts.s3.amazonaws.com/Images/Prod/PEGAPCSA84V1_Current.png",
+    image: PCSSA,
   },
   {
     testimonial:
