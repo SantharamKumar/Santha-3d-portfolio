@@ -50,7 +50,7 @@ export const navLinks: TNavLink[] = [
 
 const services: TService[] = [
   {
-    title: "Web Developer",
+    title: "Pega Developer",
     icon: web,
   },
   {
@@ -66,7 +66,7 @@ const services: TService[] = [
     icon: creator,
   },
     {
-    title: "Pega Developer",
+    title: "Web Developer",
     icon: web,
   },
 ];
@@ -93,16 +93,12 @@ const technologies: TTechnology[] = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
-  {
     name: "Node JS",
     icon: nodejs,
+  },
+  {
+    name: "git",
+    icon: git,
   },
   {
     name: "MongoDB",
@@ -111,10 +107,6 @@ const technologies: TTechnology[] = [
   {
     name: "Three JS",
     icon: threejs,
-  },
-  {
-    name: "git",
-    icon: git,
   },
   {
     name: "figma",
@@ -189,18 +181,18 @@ const testimonials: TTestimonial[] = [
   {
     testimonial:
       "Step-by-step guide for integrating Apollo Client with React and TypeScript, covering setup, configuration, querying, and type safety for GraphQL applications.",
-    name: "Integrating Apollo Client with React and TypeScript",
-    designation: "Blog Post",
-    company: "DEV Community",
-    image: "https://dev.to/assets/devlogo.svg",
+    name: "Pega Certified System Architect",
+    designation: "Developer",
+    company: "Pega Systems",
+    image: "https://accounts.pega.com/profile/SantharamK/share/BPEGAPCSA84V1-PEGAPCSA84V1",
   },
   {
     testimonial:
-      "Explore 10 game-changing AI tools that transform ideas into digital reality, from TensorFlow and PyTorch to OpenAI and AWS AI Services. A comprehensive guide to the most powerful AI technologies.",
-    name: "Unleashing AI Wonders: 10 Game-Changing Tools",
-    designation: "Blog Post",
-    company: "DEV Community",
-    image: "https://dev.to/assets/devlogo.svg",
+      "",
+    name: "Pega Certified Decisioning Consultant",
+    designation: "Developer",
+    company: "Pega Systems",
+    image: "hhttps://accounts.pega.com/profile/SantharamK/share/BPEGACPDC24V1-PEGACPDC24V1",
   },
   {
     testimonial:
