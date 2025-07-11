@@ -208,14 +208,6 @@ const testimonials: TTestimonial[] = [
     company: "Pega Systems",
     image: "https://accounts.pega.com/profile/SantharamK/share/BPEGACPDC24V1-PEGACPDC24V1",
   },
-  {
-    testimonial:
-      "Technical articles and tutorials covering React.js, TypeScript, GraphQL, AI/ML, and modern web development practices. Sharing knowledge and best practices with the developer community.",
-    name: "Web Development & AI/ML",
-    designation: "Blog Series",
-    company: "DEV Community",
-    image: "https://dev.to/assets/devlogo.svg",
-  },
 ];
 
 const projects: TProject[] = [
