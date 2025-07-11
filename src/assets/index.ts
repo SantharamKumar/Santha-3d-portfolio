@@ -27,6 +27,8 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import PCSSA from "./PCSSA.png";
+import PCSA from "./PCSA.png";
+import CPDC from "./CPDC.png";
 import tripguide from "./tripguide.png";
 
 export {
@@ -55,5 +57,7 @@ export {
   carrent,
   jobit,
   PCSSA,
+  PCSA,
+  CPDC,
   tripguide,
 };

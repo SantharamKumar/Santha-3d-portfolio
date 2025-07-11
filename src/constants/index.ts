@@ -30,6 +30,8 @@ import {
   PCSSA,
   tripguide,
   threejs,
+  PCSA,
+  CPDC,
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
@@ -75,11 +77,14 @@ const technologies: TTechnology[] = [
     name: "PCSSA",
     icon: PCSSA,
   },
-    {
+  {
     name: "PCSA",
-    icon: jobit,
+    icon: PCSA,
   },
-
+  {
+    name: "PCDC",
+    icon: CPDC,
+  },
   {
     name: "HTML 5",
     icon: html,
