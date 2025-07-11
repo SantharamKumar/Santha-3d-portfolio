@@ -170,7 +170,7 @@ const experiences: TExperience[] = [
 const testimonials: TTestimonial[] = [
   {
     testimonial:
-      "Test",
+      "",
     name: "Pega Certified Senior System Architect",
     designation: "Developer",
     company: "Pega Systems",
@@ -178,7 +178,7 @@ const testimonials: TTestimonial[] = [
   },
   {
     testimonial:
-      "Step-by-step guide for integrating Apollo Client with React and TypeScript, covering setup, configuration, querying, and type safety for GraphQL applications.",
+      "",
     name: "Pega Certified System Architect",
     designation: "Developer",
     company: "Pega Systems",
@@ -186,11 +186,11 @@ const testimonials: TTestimonial[] = [
   },
   {
     testimonial:
-      "",
+    "",
     name: "Pega Certified Decisioning Consultant",
     designation: "Developer",
     company: "Pega Systems",
-    image: "hhttps://accounts.pega.com/profile/SantharamK/share/BPEGACPDC24V1-PEGACPDC24V1",
+    image: "https://accounts.pega.com/profile/SantharamK/share/BPEGACPDC24V1-PEGACPDC24V1",
   },
   {
     testimonial:
