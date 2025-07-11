@@ -27,6 +27,7 @@ import {
   shopify,
   carrent,
   jobit,
+  PCSSA,
   tripguide,
   threejs,
 } from "../assets";
@@ -72,7 +73,7 @@ const services: TService[] = [
 const technologies: TTechnology[] = [
   {
     name: "PCSSA",
-    icon: jobit,
+    icon: PCSSA,
   },
     {
     name: "PCSA",
@@ -192,7 +193,7 @@ const testimonials: TTestimonial[] = [
     designation: "Developer",
     company: "Pega Systems",
     //image: "https://accounts.pega.com/profile/SantharamK/share/BPEGAPCSA84V1-PEGAPCSA84V1",
-    image: jobit,
+    image: PCSSA,
   },
   {
     testimonial:
