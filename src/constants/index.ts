@@ -29,7 +29,6 @@ import {
   jobit,
   PCSSA,
   tripguide,
-  threejs,
   PCSA,
   CPDC,
 } from "../assets";
