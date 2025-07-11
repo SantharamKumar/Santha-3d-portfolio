@@ -130,7 +130,7 @@ const technologies: TTechnology[] = [
 const experiences: TExperience[] = [
   {
     title: "React.js Developer",
-    companyName: "Starbucks",
+    companyName: "Freelance",
     icon: starbucks,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
@@ -143,10 +143,10 @@ const experiences: TExperience[] = [
   },
   {
     title: "React Native Developer",
-    companyName: "Tesla",
+    companyName: "Freelance",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -155,24 +155,32 @@ const experiences: TExperience[] = [
     ],
   },
   {
-    title: "Web Developer",
-    companyName: "Shopify",
+    title: "Pega Developer",
+    companyName: "Coforge",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Apr 2022 - Mar 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Collaborated with cross-functional teams to deliver user stories within sprint timelines, maintaining high code quality.",
+      "Gained domain knowledge across various Lines of Business (LOB) to design and implement scalable and efficient logic per business requirements.",
+      "Designed and developed workflow processes utilizing Pega components such as Decision Tables, Declarative Expressions, Report Definitions, When Rules, Activities, Data Transforms, Sections, Flow Actions, and Data Pages.",
+      "Built and customized user interface components using Harness, Sections, and Skin rules for consistent and responsive UI.",
+      "Developed complex flows including Sub-processes and Spin-off Flows using advanced flow shapes and utilities.",
+      "Implemented key PRPC rules like Declarative Rules, SLAs, and Data Transforms to automate business logic and case life cycles.",
+      "Ensured robust validation mechanisms, and effectively managed cases using Work Queues and Work Groups.",
+      "Worked on Pega NLP capabilities to analyze unstructured text data and integrate intelligent decisioning into case flows.",
+      "Conducted thorough unit testing, and resolved issues using PRPC tools such as Clipboard and Tracer.",
+      "Maintained Unit Test Documentation for each user story to support agile delivery and QA processes.",
+      "Utilized Pega Agile Studio for managing sprint activities, tracking user story status, and ensuring agile compliance.",
+      "Actively participated in Daily Stand-ups, Scrum Meetings, and Sprint Retrospectives with offshore and onshore teams."
     ],
   },
   {
     title: "Full stack Developer",
-    companyName: "Meta",
+    companyName: "Freelance",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
