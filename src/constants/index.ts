@@ -17,8 +17,6 @@ import {
   html,
   css,
   reactjs,
-  redux,
-  tailwind,
   nodejs,
   mongodb,
   git,
@@ -217,10 +215,6 @@ const projects: TProject[] = [
       {
         name: "mongodb",
         color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
       },
     ],
     image: carrent,
