@@ -71,6 +71,15 @@ const services: TService[] = [
 
 const technologies: TTechnology[] = [
   {
+    name: "PCSSA",
+    icon: jobit,
+  },
+    {
+    name: "PCSA",
+    icon: jobit,
+  },
+
+  {
     name: "HTML 5",
     icon: html,
   },
