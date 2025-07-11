@@ -182,7 +182,8 @@ const testimonials: TTestimonial[] = [
     name: "Pega Certified System Architect",
     designation: "Developer",
     company: "Pega Systems",
-    image: "https://accounts.pega.com/profile/SantharamK/share/BPEGAPCSA84V1-PEGAPCSA84V1",
+    //image: "https://accounts.pega.com/profile/SantharamK/share/BPEGAPCSA84V1-PEGAPCSA84V1",
+    image: jobit,
   },
   {
     testimonial:
